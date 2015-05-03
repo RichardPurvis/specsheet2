@@ -1,4 +1,24 @@
 Rails.application.routes.draw do
+  get 'items/new'
+
+  get 'items/create'
+
+  get 'new/create'
+
+  get 'values/new'
+
+  get 'values/create'
+
+  get 'columns/new'
+
+  get 'columns/create'
+
+  get 'sheets/new'
+
+  get 'sheets/show'
+
+  get 'sheets/create'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

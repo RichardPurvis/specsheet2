@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  value: MyString
+  column_id: 
+  sheet_id: 
+
+two:
+  value: MyString
+  column_id: 
+  sheet_id: 
